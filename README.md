@@ -2,7 +2,7 @@
 
 Introduction to the Lean Programming Language
 Each piece of the project will have its own .md file
-Example code will be in its own Lean Project Folder (Project_2_431/LeanIntro) within the overall Project_2_431 project. Source Code is within the LeanIntro folder within the Lean Project Folder(Project_2_431/LeanIntro/LeanIntro)
+Example Code is within the LeanIntro folder within the Overall Project 2 Folder(Project_2_431/LeanIntro)
 This file will serve as a table of contents for these files
 
 File:               Contents:
