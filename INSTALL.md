@@ -36,4 +36,4 @@ A guide to installing Lean directly from VS Code (the easier method)
 
 5   The document includes links to various useful resources for learning Lean, instructions on installing Git (neccessary for installing Lean), guides to opening and creating Lean projects, and a troubleshooting guide to help you with any problems you may encounter
 
-6   The Setup Guide also includes a one button instal that automatically installs elan (the Lean package manager) and the latest stable release of Lean. Go to the "Install Lean Version Manager" tab and find the "Click to install" button. Click the button and you're done.
+6   The Setup Guide also includes a one button install that automatically installs elan (the Lean package manager) and the latest stable release of Lean. Go to the "Install Lean Version Manager" tab and find the "Click to install" button. Click the button and you're done.
