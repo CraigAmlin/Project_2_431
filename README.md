@@ -6,7 +6,7 @@ Example Code is within the LeanIntro folder within the Overall Project 2 Folder(
 This file will serve as a table of contents for these files
 
 File:               Contents:
-READEME.md          Current location. Project Directory
+README.md           Current location. Project Directory
 INSTALL.md          WSL Installation guide and requirements
 HISTORY.md          Development History of Lean
 USAGE.md            Common Use Cases of Lean
