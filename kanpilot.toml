@@ -5,6 +5,37 @@ skipFiles = [ ".gitignore", "package.json" ]
 [[processes]]
 id = "process1"
 name = "To Do"
+tasks = [ ]
+
+[[processes]]
+id = "process2"
+name = "In Progress"
+
+  [[processes.tasks]]
+  id = "rmrcqhvmnfdm2a9vqenth06h"
+  title = "Final Review and Commit"
+  description = "Look over everything and see that it's good"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
+
+[[processes]]
+id = "process3"
+name = "Done"
+
+  [[processes.tasks]]
+  id = "task1"
+  title = "Lean installation in WSL and Requirements"
+  description = "<p></p>"
+  tag = "backlog"
+  linkFiles = [ ]
+  dueDate = ""
+  checkList = [ ]
+  priority = ""
+  linkCommits = [ ]
 
   [[processes.tasks]]
   id = "vha3a38c3l3iogy1th1zhths"
@@ -17,24 +48,9 @@ name = "To Do"
   priority = ""
   linkCommits = [ ]
 
-[[processes]]
-id = "process2"
-name = "In Progress"
-
   [[processes.tasks]]
   id = "jsr9eisfwduozp06ex4b4aqh"
   title = "Usage and Examples"
-  description = ""
-  tag = "backlog"
-  linkFiles = [ ]
-  dueDate = ""
-  checkList = [ ]
-  priority = ""
-  linkCommits = [ ]
-
-  [[processes.tasks]]
-  id = "pgc6u6tw2mbal87deolm3v2s"
-  title = "Purpose and Characteristics"
   description = ""
   tag = "backlog"
   linkFiles = [ ]
@@ -54,14 +70,10 @@ name = "In Progress"
   priority = ""
   linkCommits = [ ]
 
-[[processes]]
-id = "process3"
-name = "Done"
-
   [[processes.tasks]]
-  id = "task1"
-  title = "Lean installation in WSL and Requirements"
-  description = "<p></p>"
+  id = "pgc6u6tw2mbal87deolm3v2s"
+  title = "Purpose and Characteristics"
+  description = ""
   tag = "backlog"
   linkFiles = [ ]
   dueDate = ""
